@@ -1,4 +1,4 @@
-# C-programs-
+# C-programs
 Course Work for EECS2031, Softwere Tools 
 
 Triangle : a C program “triangle.c” that uses the “*” character to draw a triangle of a given number of rows.
